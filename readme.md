@@ -1,5 +1,6 @@
 # DWPose video
-_simple implementation for video to animated DWPose_
+_simple implementation for video to animated DWPose_  
+![pose](https://github.com/legraphista/dwpose-video/assets/962643/7161a2ba-c19c-4c3e-94fc-ef584a60bdf7)
 
 ## Install
 
