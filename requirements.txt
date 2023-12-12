@@ -1,0 +1,7 @@
+onnxruntime
+onnxruntime-gpu
+matplotlib
+numpy
+tqdm
+torchvision
+av

@@ -1,0 +1,8 @@
+.venv
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.webm
+*.mkv
+*.onnx
